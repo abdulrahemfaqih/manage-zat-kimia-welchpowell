@@ -26,6 +26,10 @@ Program ini memiliki fitur berikut:
 5. Ikuti petunjuk yang muncul di layar untuk menambahkan, menghapus, atau menampilkan zat kimia.
 6. Program akan menampilkan hasil ruangan dan graf sesuai dengan pilihan Anda.
 
+## Kelemahan Program yang perlu di improve
+1. Penamaan Zat Kimia hanya bisa dengan satu abjad atau 1 nomor
+2. Perbaikan Visualisasi Tampilan
+
 
 
 
